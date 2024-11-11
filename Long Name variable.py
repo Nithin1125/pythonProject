@@ -1,0 +1,2 @@
+longvariablename = "Hello"
+print(longvariablename)
